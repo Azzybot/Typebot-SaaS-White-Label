@@ -128,7 +128,7 @@ export const SignInForm = ({
   return (
     <Flex direction={{ base: 'column', md: 'row' }}> {/* Modificação da direção com responsividade. */}
       <Image
-        src="/.github/images/type-saas.png" // Caminho local para a imagem.
+        src="/apps/builder/public/images/type-saas.png" // Caminho local para a imagem.
         alt="Type SaaS Image"
         marginRight="8" // Parando o espaçamento correto entre a imagem e o formulário.
       />
